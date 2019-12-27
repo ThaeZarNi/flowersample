@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">proj2</string>
+
+    <string name="txtName">Wang Yi Bo</string>
+    <string name="txtLocation">Henan\,China</string>
+    <string name="btnFollow">Follow</string>
+    <string name="txtA">34</string>
+    <string name="txtB">3045</string>
+    <string name="txtPost">Posts</string>
+    <string name="txtFollower">Followers</string>
+    <string name="txtAbout">About</string>
+    <string name="txtDes">Wang Yibo (Chinese: 王一博; pinyin: Wáng Yībó, born 5 August 1997) is a Chinese actor and singer. He is a member of South Korean-Chinese boyband UNIQ. Wang received recognition for his role as Lan Wangji in the drama The Untamed (2019).
+</string>
+</resources>
